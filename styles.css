@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+label:nth-of-type(2),
+label:nth-of-type(4),
+label:nth-of-type(6){
+color: red;
+}
